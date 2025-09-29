@@ -23,8 +23,7 @@
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
   </a>
   <a href="mailto:sithumnirmal2002@gmail.com">
-    <img align="center" src="https://github.com/user-attachments/assets/70ef7608-35df-4662-a4a9-8066235fa81a" />
-" alt="email" height="30" width="40" />
+    <img align="center" src="https://github.com/user-attachments/assets/70ef7608-35df-4662-a4a9-8066235fa81a"/>
   </a>
 </p>
 
