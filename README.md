@@ -19,9 +19,12 @@
 <h3 align="center">Undergraduate | Developer | Tech Enthusiast</h3>
 
 <p align="center">
-<a href="https://linkedin.com/in/sithum-weerasinghe-309629197" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="mailto:sithumnirmal2002@gmail.com"><img align="center" src="<img alt="image" src="https://github.com/user-attachments/assets/6851aa16-91ac-4505-9551-08d8c2700d51" />
-" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/sithum-weerasinghe-309629197" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
+  </a>
+  <a href="mailto:sithumnirmal2002@gmail.com">
+    <img align="center" src="https://github.com/user-attachments/assets/6851aa16-91ac-4505-9551-08d8c2700d51" alt="email" height="30" width="40" />
+  </a>
 </p>
 
 ---
