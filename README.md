@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="200"/>
 </p>
 <br>
 
@@ -29,7 +28,7 @@
 
 <p align="center">
   <em>
-    I am <b>Sithum Nirmal Weerasinghe</b>, a <b>2nd-year undergraduate</b> at the  
+    I am <b>Sithum Nirmal Weerasinghe</b>, a <b> undergraduate</b> at the  
     <a href="https://www.sjp.ac.lk/"><b>University of Sri Jayewardenepura</b></a>, Faculty of Technology.<br>
     I am a <b>self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> 
     and <b>developer</b> passionate about <b>IoT</b>, <b>Cloud Computing</b>, and <b>Full-Stack Development</b>.  
@@ -69,10 +68,8 @@
   <code><img height="50" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></code>
   <code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   <code><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-  <code><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
   <code><img height="50" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
   <code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
-  <code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
 </p>
 
 ---
@@ -94,4 +91,3 @@
 
 -----
 
-Credits: [Ovindu Wijethunge](https://github.com/OvinduWijethunge) | Customized by [Sithum Weerasinghe](https://github.com/sithumw)  
