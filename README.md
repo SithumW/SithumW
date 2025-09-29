@@ -1,58 +1,97 @@
-<h1 align="center">👋 Hi, I'm Sithum Weerasinghe</h1>
-<h3 align="center">💻 Developer | 🌍 Sri Lanka | 🚀 Tech Enthusiast</h3>
+<p align="center">
+  <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="200"/>
+</p>
+<br>
+
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=sithumw&color=brightgreen" alt="profile_views" />
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sithumw&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Age-22-blue" />
+  <img src="https://img.shields.io/badge/Focus-IoT%20%7C%20Cloud%20%7C%20FullStack-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
+</p>
+
+<hr>
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Sithum Weerasinghe</h1>
+<h3 align="center">Undergraduate | Developer | Tech Enthusiast</h3>
+
+<p align="center">
+<a href="https://linkedin.com/in/sithum-weerasinghe-309629197" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://fb.com/sithum.weerasinghe" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="facebook" height="30" width="40" /></a>
+<a href="mailto:sithumnirmal2002@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 </p>
 
 ---
 
-### ✨ About Me  
-- 📧 Reach me at: **sithumnirmal2002@gmail.com**  
-- ⚡ Fun fact: **You can just call me "Sith"**  
-- 🌱 Currently exploring **IoT, Cloud, and Full-Stack Development**  
-- 🎯 Goal: Building scalable and impactful tech solutions  
+<p align="center">
+  <em>
+    I am <b>Sithum Nirmal Weerasinghe</b>, a <b>2nd-year undergraduate</b> at the  
+    <a href="https://www.sjp.ac.lk/"><b>University of Sri Jayewardenepura</b></a>, Faculty of Technology.<br>
+    I am a <b>self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> 
+    and <b>developer</b> passionate about <b>IoT</b>, <b>Cloud Computing</b>, and <b>Full-Stack Development</b>.  
+    <br><br>
+    <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" />  
+    <b><i>Thought:</i> "Code, learn, and build solutions that make life easier."</b>  
+    <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+  </em>
+</p>
 
 ---
 
-### 🤝 Connect With Me  
+<img align="right" width=200px height=200px alt="coder" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
+
+✔ Call me: ***Sith*** 😊  
+✔ Currently building **IoT-powered energy monitoring systems**  
+✔ Exploring **Cloud platforms** and **AI for IoT**  
+✔ Looking to collaborate on **Open-Source IoT/Full-Stack projects**  
+✔ Ask me anything — I’ll try my best to help 😉  
+✔ Fun fact: *I love solving problems with code more than sleeping* 😎  
+
+---
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My Working Tools...***
+
 <p align="left">
-  <a href="https://linkedin.com/in/sithum-weerasinghe-309629197" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30"/>
-  </a>
-  <a href="https://fb.com/sithum.weerasinghe" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" height="30" width="30"/>
-  </a>
+  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"></code>
+  <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+  <code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+  <code><img height="50" src="https://reactnative.dev/img/header_logo.svg"></code>
+  <code><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+  <code><img height="50" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
+  <code><img height="50" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></code>
+  <code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+  <code><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
+  <code><img height="50" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
+  <code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+  <code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools  
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a>
-  <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> </a>
-  <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/> </a>
-  <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
-  <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/> </a>
-  <a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/> </a>
+<p align="center">
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px"/>&nbsp;<i><b>GitHub Activeness</b></i>
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sithumw&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="sithumw" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sithumw&show_icons=true&locale=en&theme=chartreuse-dark" alt="sithumw" width="410" /></p>
+<br><br><br><br><br>
 
 ---
 
-<p align="center">⭐️ From <a href="https://github.com/sithumw">Sithum Weerasinghe</a></p>
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;GitHub Profile Trophies</p>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=sithumw&theme=juicyfresh&no-bg=true" />
+</p>
+
+-----
+
+Credits: [Ovindu Wijethunge](https://github.com/OvinduWijethunge) | Customized by [Sithum Weerasinghe](https://github.com/sithumw)  
