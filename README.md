@@ -20,8 +20,8 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/sithum-weerasinghe-309629197" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://fb.com/sithum.weerasinghe" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="facebook" height="30" width="40" /></a>
-<a href="mailto:sithumnirmal2002@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
+<a href="mailto:sithumnirmal2002@gmail.com"><img align="center" src="<img alt="image" src="https://github.com/user-attachments/assets/6851aa16-91ac-4505-9551-08d8c2700d51" />
+" height="30" width="40" /></a>
 </p>
 
 ---
