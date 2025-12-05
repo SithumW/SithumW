@@ -1,4 +1,14 @@
 <p align="center">
+  <a href="https://www.sithumw.me/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=google-chrome" alt="Portfolio" />
+  </a>
+</p>
+<br>
+
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=sithumw&color=brightgreen" alt="profile_views" />
+</p>
+
 </p>
 <br>
 
