@@ -24,13 +24,11 @@
 ## 👋 About me
 
 I'm **Sithum Nirmal Weerasinghe** (*Sith*), a **Software Engineer | Researcher** from Sri Lanka and a graduate of the
-**Faculty of Technology, [University of Sri Jayewardenepura](https://www.sjp.ac.lk/)**.
+**[University of Sri Jayewardenepura](https://www.sjp.ac.lk/)**.
 
 I like building backend systems that are reliable, secure and easy to run, and connecting them to AI, the web,
 the cloud, data and real hardware.
 
-- 🔭 **Currently building:** [ArenaSync](https://github.com/SithumW/ArenaSync), an event management platform built on
-  Spring Boot microservices, NATS messaging, Keycloak auth and an Angular web app
 - 🤖 **Working with AI:** designing agentic workflows and integrating AI into real-world applications
 - 🌱 **Exploring:** cloud-native deployments, data pipelines and applied data science
 - 🤝 **Open to:** collaborating on backend, AI, full-stack and IoT projects
