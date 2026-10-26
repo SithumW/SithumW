@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/SithumW">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00F5D4&center=true&vCenter=true&width=640&lines=Building+event-driven+microservices;Spring+Boot+%E2%80%A2+NATS+%E2%80%A2+Keycloak+%E2%80%A2+Angular;Cloud%2C+DevOps+and+data+pipelines;IoT+systems+that+talk+to+the+cloud" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00F5D4&center=true&vCenter=true&width=640&lines=Building+event-driven+microservices;Designing+agentic+AI+workflows;Integrating+AI+into+real+products;Cloud%2C+DevOps+and+data+pipelines;IoT+systems+that+talk+to+the+cloud" alt="Typing intro" />
   </a>
 </p>
 
@@ -26,14 +26,15 @@
 I'm **Sithum Nirmal Weerasinghe** (*Sith*), a **Software Engineer | Researcher** from Sri Lanka and a graduate of the
 **Faculty of Technology, [University of Sri Jayewardenepura](https://www.sjp.ac.lk/)**.
 
-I like building backend systems that are reliable, secure and easy to run, and connecting them to the web,
+I like building backend systems that are reliable, secure and easy to run, and connecting them to AI, the web,
 the cloud, data and real hardware.
 
 - 🔭 **Currently building:** [ArenaSync](https://github.com/SithumW/ArenaSync), an event management platform built on
   Spring Boot microservices, NATS messaging, Keycloak auth and an Angular web app
+- 🤖 **Working with AI:** designing agentic workflows and integrating AI into real-world applications
 - 🌱 **Exploring:** cloud-native deployments, data pipelines and applied data science
-- 🤝 **Open to:** collaborating on backend, full-stack and IoT projects
-- 💬 **Ask me about:** microservices, APIs, Java/Spring, IoT
+- 🤝 **Open to:** collaborating on backend, AI, full-stack and IoT projects
+- 💬 **Ask me about:** microservices, APIs, AI agents, IoT
 - ⚡ **Fun fact:** I'd rather debug a tricky problem than sleep
 
 ## 🎯 What I work on
@@ -41,6 +42,8 @@ the cloud, data and real hardware.
 | Area | Details |
 | --- | --- |
 | 🧩 **Backend & Microservices** | Java, Spring Boot, event-driven design with NATS, API gateways, OAuth2/Keycloak |
+| 🤖 **AI Agentic Development** | Designing AI agents and multi-step agentic workflows with tool use, planning and human-in-the-loop control |
+| 🔗 **AI Integrations** | Bringing AI into real products: intelligent features, AI-powered APIs and workflow automation |
 | 🌐 **Full-Stack Web** | Angular, React, Node.js/Express, REST and GraphQL APIs |
 | ☁️ **Cloud & DevOps** | Docker, CI/CD with GitHub Actions, cloud platforms, Linux |
 | 📊 **Data Science & Pipelines** | Python, data processing and ETL pipelines, ML basics |
